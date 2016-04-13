@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiaheli01pfeigoog/monographiaheli01pfeigoog_0707.png"; bbox 0 0 815 1460; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 524 305 677 334">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 524 305 677 334">
+     <span class='ocr_line' id='line_1_1' title="bbox 524 305 673 316; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 524 308 594 316; x_wconf 50' lang='grc' dir='ltr'>’πτωρ-η..</span> <span class='ocrx_word' id='word_1_2' title='bbox 605 305 634 316; x_wconf 62' lang='lat' dir='ltr'>hur</span> <span class='ocrx_word' id='word_1_3' title='bbox 650 306 673 316; x_wconf 59' lang='grc' dir='ltr'>ι’,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 526 322 677 334; baseline -0.007 -1"><span class='ocrx_word' id='word_1_4' title='bbox 526 325 619 334; x_wconf 44' lang='grc' dir='ltr'>κώμη-,πτωρ</span> <span class='ocrx_word' id='word_1_5' title='bbox 630 322 638 333; x_wconf 69' lang='grc' dir='ltr'><strong>Ρ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 655 324 677 333; x_wconf 76' lang='grc' dir='ltr'>ἰ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 528 444 662 474">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 528 444 662 474">
+     <span class='ocr_line' id='line_1_3' title="bbox 537 444 662 456; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 537 448 604 456; x_wconf 64' lang='grc' dir='ltr'>υ--ιιτιι-ι-</span> <span class='ocrx_word' id='word_1_8' title='bbox 614 444 632 456; x_wconf 68' lang='lat' dir='ltr'>ir.</span> <span class='ocrx_word' id='word_1_9' title='bbox 648 447 662 456; x_wconf 69' lang='grc' dir='ltr'>ι.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 528 462 632 474; baseline -0.019 -1"><span class='ocrx_word' id='word_1_10' title='bbox 528 466 584 474; x_wconf 59' lang='lat' dir='ltr'>..mn-</span> <span class='ocrx_word' id='word_1_11' title='bbox 595 462 632 473; x_wconf 56' lang='lat' dir='ltr'>h·-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 173 237 741 1214">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 173 237 741 1214">
+     <span class='ocr_line' id='line_1_5' title="bbox 173 237 741 1214; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 173 237 741 1214; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
